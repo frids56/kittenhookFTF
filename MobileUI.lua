@@ -1672,7 +1672,7 @@ do
 				false,
 				UDim2.new(0, 0, 0, 0)
 			};
-			Size = UDim2.new(0, 580, 0, 400)
+			Size = UDim2.new(0, 580, 0, 300)
 		};
 		Library.Window = Window
 		Library.ScreenGui = Library:Create("ScreenGui", {
