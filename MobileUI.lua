@@ -1750,7 +1750,7 @@ do
 			BackgroundTransparency = 1,
 			BorderSizePixel = 0,
 			BorderColor3 = Color3.new(0, 0, 0),
-			Text = "pasta.lua",
+			Text = "kittenhook.lua",
 			TextColor3 = "Accent",
 			AutoButtonColor = false,
 			FontFace = Library.Font,
