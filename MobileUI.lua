@@ -1,4 +1,3 @@
-
 local Library = {
 	Open = true;
 	Accent = Color3.fromHex("6759b3");
@@ -1673,7 +1672,7 @@ do
 				false,
 				UDim2.new(0, 0, 0, 0)
 			};
-			Size = UDim2.new(0, 100, 0, 625)
+			Size = UDim2.new(0, 580, 0, 400)
 		};
 		Library.Window = Window
 		Library.ScreenGui = Library:Create("ScreenGui", {
@@ -1751,7 +1750,7 @@ do
 			BackgroundTransparency = 1,
 			BorderSizePixel = 0,
 			BorderColor3 = Color3.new(0, 0, 0),
-			Text = "kittenhook.lua",
+			Text = "pasta.lua",
 			TextColor3 = "Accent",
 			AutoButtonColor = false,
 			FontFace = Library.Font,
